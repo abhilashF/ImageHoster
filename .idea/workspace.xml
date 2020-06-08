@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bced728-3752-44a3-9892-cea4876de352" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1d2kdIRqf2QOMngPZaqJefcBKaX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="UPDATE" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="updateIndicesOnProjectOpen" value="true" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ImageHosterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ImageHoster" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImageHoster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ImageHoster.ImageHosterApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ImageHosterApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bced728-3752-44a3-9892-cea4876de352" name="Default Changelist" comment="" />
+      <created>1591630660672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591630660672</updated>
+      <workItem from="1591630666694" duration="268000" />
+      <workItem from="1591630982117" duration="2830000" />
+      <workItem from="1591633997620" duration="4044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="27" key="#Project_Structure" timestamp="1591631291536">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="163" y="27" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1591631291536" />
+    <state x="18" y="35" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591638029170">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="18" y="35" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1591638029170" />
+    <state width="1235" height="174" key="GridCell.Tab.0.bottom" timestamp="1591638084419">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1235" height="174" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591638084419" />
+    <state width="1235" height="174" key="GridCell.Tab.0.center" timestamp="1591638084418">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1235" height="174" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1591638084418" />
+    <state width="1235" height="174" key="GridCell.Tab.0.left" timestamp="1591638084418">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1235" height="174" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1591638084418" />
+    <state width="1235" height="174" key="GridCell.Tab.0.right" timestamp="1591638084419">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1235" height="174" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1591638084419" />
+    <state width="1235" height="174" key="GridCell.Tab.1.bottom" timestamp="1591638084420">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1235" height="174" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591638084420" />
+    <state width="1235" height="174" key="GridCell.Tab.1.center" timestamp="1591638084420">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1235" height="174" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1591638084420" />
+    <state width="1235" height="174" key="GridCell.Tab.1.left" timestamp="1591638084420">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1235" height="174" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1591638084420" />
+    <state width="1235" height="174" key="GridCell.Tab.1.right" timestamp="1591638084420">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1235" height="174" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1591638084420" />
+    <state width="1065" height="217" key="GridCell.Tab.2.bottom" timestamp="1591632533981">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1065" height="217" key="GridCell.Tab.2.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591632533981" />
+    <state width="1065" height="217" key="GridCell.Tab.2.center" timestamp="1591632533980">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1065" height="217" key="GridCell.Tab.2.center/0.0.1280.800@0.0.1280.800" timestamp="1591632533980" />
+    <state width="1065" height="217" key="GridCell.Tab.2.left" timestamp="1591632533979">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1065" height="217" key="GridCell.Tab.2.left/0.0.1280.800@0.0.1280.800" timestamp="1591632533979" />
+    <state width="1065" height="217" key="GridCell.Tab.2.right" timestamp="1591632533980">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1065" height="217" key="GridCell.Tab.2.right/0.0.1280.800@0.0.1280.800" timestamp="1591632533980" />
+    <state x="204" y="136" key="NewModule_or_Project.wizard" timestamp="1591633515599">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="204" y="136" key="NewModule_or_Project.wizard/0.0.1280.800@0.0.1280.800" timestamp="1591633515599" />
+    <state x="280" y="336" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591631548995">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="280" y="336" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.800@0.0.1280.800" timestamp="1591631548995" />
+    <state x="94" y="178" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591632181770">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="94" y="178" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.800@0.0.1280.800" timestamp="1591632181770" />
+  </component>
+</project>

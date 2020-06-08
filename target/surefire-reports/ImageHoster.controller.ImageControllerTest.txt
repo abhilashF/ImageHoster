@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: ImageHoster.controller.ImageControllerTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 1.118 s <<< FAILURE! - in ImageHoster.controller.ImageControllerTest
+editImageWithNonOwnerOfTheImage  Time elapsed: 0.01 s  <<< ERROR!
+org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 0
+	at ImageHoster.controller.ImageControllerTest.editImageWithNonOwnerOfTheImage(ImageControllerTest.java:231)
+Caused by: java.lang.IndexOutOfBoundsException: Index -1 out of bounds for length 0
+	at ImageHoster.controller.ImageControllerTest.editImageWithNonOwnerOfTheImage(ImageControllerTest.java:231)
+
+deleteImageWithNonOwnerOfTheImage  Time elapsed: 0.046 s  <<< FAILURE!
+java.lang.AssertionError: Model attribute 'deleteError' expected:<Only the owner of the image can delete the image> but was:<Only the owner of the image can edit the image>
+	at ImageHoster.controller.ImageControllerTest.deleteImageWithNonOwnerOfTheImage(ImageControllerTest.java:309)
+
